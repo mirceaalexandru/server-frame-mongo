@@ -1,5 +1,5 @@
 {
-  "name": "server-frame-db",
+  "name": "server-frame-mongo",
   "version": "0.0.1",
   "description": "Server plugin Mongo db",
   "main": "lib/index.js",
