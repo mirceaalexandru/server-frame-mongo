@@ -1,0 +1,20 @@
+{
+  "name": "server-frame-db",
+  "version": "0.0.1",
+  "description": "Server plugin Mongo db",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab --pattern test -r console -v"
+  },
+  "author": "Mircea Alexandru",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "boom": "^4.0.0",
+    "joi": "^9.1.0",
+    "lodash": "^4.16.4",
+    "mongodb": "^2.2.10"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
